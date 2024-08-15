@@ -1,5 +1,6 @@
 # SM64-Level-Importer-Updated
  A modification of scuttlebug_raiser's SM64 "SM64 Decomp C Level Importer" for newer Blender and Fast64 versions.
+ Make sure to also check out the original repo as well for possible updates https://gitlab.com/scuttlebugraiser/rom-manger-2-c
 
 # ⚠ Contributions needed ⚠
 Please, if you know how to fix these issues down below, feel free to make a PR, as I'm currently figuring stuff out
